@@ -3,6 +3,6 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/) by Gabrielle Cir
 
 Combine legendary UCLA figures to get the almighty Chancellor Gene Block!
 
-[Play it here!](https://getgene.github.io)
+[Play it here!](https://bit.ly/getgene)
 
 Shortened link: [bit.ly/getgene](https://bit.ly/getgene)
