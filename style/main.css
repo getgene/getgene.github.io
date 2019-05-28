@@ -12,6 +12,11 @@ html, body {
   font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
+::selection {
+  background-color: #F2A900;
+  color: white;
+}
+
 .heading:after {
   content: "";
   display: block;
