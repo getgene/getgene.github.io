@@ -23,7 +23,7 @@ html, body {
   clear: both; }
 
 h1.title {
-  font-size: 64px;
+  font-size: 56px;
   font-weight: bold;
   color: #2774AE;
   margin: 0;
@@ -515,7 +515,7 @@ hr {
     padding: 0 20px; }
 
   h1.title {
-    font-size: 36px;
+    font-size: 32px;
     margin-top: 5px; }
 
   .container {
