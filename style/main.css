@@ -114,8 +114,16 @@ p {
 a {
   color: #2774AE;
   font-weight: bold;
-  text-decoration: underline;
+  text-decoration: none;
   cursor: pointer; }
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
 
 strong.important {
   text-transform: uppercase; }
