@@ -439,6 +439,28 @@ hr {
       font-size: 8px;
     }
   }
+
+  &.tile-super65536 .tile-inner {
+    color: $bright-text-color;
+    background: mix(#333, $tile-gold-color, 95%);
+
+    font-size: 24px;
+
+    @include smaller($mobile-threshold) {
+      font-size: 8px;
+    }
+  }
+
+  &.tile-super131072 .tile-inner {
+    color: $bright-text-color;
+    background: mix(#333, $tile-gold-color, 95%);
+
+    font-size: 18px;
+
+    @include smaller($mobile-threshold) {
+      font-size: 5px;
+    }
+  }
 }
 
 @include keyframes(appear) {
