@@ -389,6 +389,16 @@ hr {
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner { } }
+  .tile.tile-super8192 .tile-inner {
+    background: #fff url('../img/super8192.jpg');
+    background-size: cover; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-super .tile-inner { } }
+  .tile.tile-super16384 .tile-inner {
+    background: #fff url('../img/super16384.jpg');
+    background-size: cover; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-super .tile-inner { } }
 
 @-webkit-keyframes appear {
   0% {
