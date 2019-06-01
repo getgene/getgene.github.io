@@ -399,6 +399,11 @@ hr {
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner { } }
+  .tile.tile-super32768 .tile-inner {
+    background: #fff url('../img/super32768.jpg');
+    background-size: cover; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-super .tile-inner { } }
 
 @-webkit-keyframes appear {
   0% {

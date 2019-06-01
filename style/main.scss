@@ -428,6 +428,17 @@ hr {
       font-size: 8px;
     }
   }
+
+  &.tile-super32768 .tile-inner {
+    color: $bright-text-color;
+    background: mix(#333, $tile-gold-color, 95%);
+
+    font-size: 24px;
+
+    @include smaller($mobile-threshold) {
+      font-size: 8px;
+    }
+  }
 }
 
 @include keyframes(appear) {
